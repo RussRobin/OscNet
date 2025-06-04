@@ -8,3 +8,5 @@ We will update this repo soon.
 IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS II)
 
 2. HICNet: Energy Efficient Hopfield Image Classification Network for CMOS Oscillators
+
+3. Oscillator Formulations of Many NP Problems
