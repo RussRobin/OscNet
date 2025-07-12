@@ -1,7 +1,7 @@
 # OscNet
-Official repo for the brain inspired and energy efficient Oscillator Network (OscNet) family.
+Brain inspired and energy efficient computing on CMOS Oscillator Networks.
 
-We will update this repo soon.
+## Machine Learning
 
 1. OscNet: Machine Learning on CMOS Oscillator Networks
 
@@ -9,6 +9,14 @@ IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS II), [[T
 
 2. OscNet v1.5: Energy Efficient Hopfield Network on CMOS Oscillators for Image Classification
 
-[[arXiv](https://arxiv.org/abs/2506.12610)]
+Proceedings of the IEEE/CVF International Conference on Computer Vision, Human-inspired Computer Vision Workshop
 
-3. Oscillator Formulations of Many NP Problems
+[ICCV-HiCV version available soon], [[arXiv](https://arxiv.org/abs/2506.12610)]
+
+## Nondeterministic Polynomial Time (NP) Problems
+
+[available soon]
+
+## Circuit Design
+
+[available soon]
