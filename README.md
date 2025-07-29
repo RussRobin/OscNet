@@ -9,7 +9,7 @@ IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS II), [[T
 
 2. OscNet v1.5: Energy Efficient Hopfield Network on CMOS Oscillators for Image Classification
 
-Proceedings of the IEEE/CVF International Conference on Computer Vision, Human-inspired Computer Vision Workshop
+Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops, Human-inspired Computer Vision Workshop
 
 [ICCV-HiCV version available soon], [[arXiv](https://arxiv.org/abs/2506.12610)]
 
