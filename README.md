@@ -1,5 +1,9 @@
 # OscNet
-Brain inspired and energy efficient computing on CMOS Oscillator Networks.
+Brain inspired algorithms designed for energy efficient computing on CMOS Oscillator Networks.
+
+## Nondeterministic Polynomial Time (NP) Problems
+
+1. Oscillator Formulations of Many NP Problems, [available soon]
 
 ## Machine Learning
 
@@ -12,10 +16,6 @@ IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS II), [[T
 Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops, Human-inspired Computer Vision Workshop
 
 [ICCV-HiCV version available soon], [[arXiv](https://arxiv.org/abs/2506.12610)]
-
-## Nondeterministic Polynomial Time (NP) Problems
-
-[available soon]
 
 ## Circuit Design
 
