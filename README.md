@@ -19,7 +19,7 @@ IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS II)
 
 Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops, Human-inspired Computer Vision Workshop
 
-[ICCV-HiCV version available soon], [[arXiv](https://arxiv.org/abs/2506.12610)]
+[[ICCV-HiCV](https://openaccess.thecvf.com/content/ICCV2025W/HCV/html/Cai_OscNet_v1.5_Energy_Efficient_Hopfield_Network_on_CMOS_Oscillators_for_ICCVW_2025_paper.html)], [[arXiv](https://arxiv.org/abs/2506.12610)]
 
 ## Circuit Design
 
