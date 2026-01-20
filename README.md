@@ -23,4 +23,8 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) W
 
 ## Circuit Design
 
+1. HippNet: a Hippocampus-Inspired Architecture for Spatial Memory and Inference Using CMOS Oscillator Networks
+
+IEEE International Symposium on Circuits and Systems (ISCAS)
+
 [available soon]
