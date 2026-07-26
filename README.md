@@ -28,3 +28,9 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) W
 IEEE International Symposium on Circuits and Systems (ISCAS)
 
 [[ISCAS](https://ieeexplore.ieee.org/document/11562784)]
+
+2. L2G-SAT: CMOS Oscillator Networks for 3-SAT Optimization via Logic-to-Graph Mapping
+
+IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS II) 
+
+[TCAS II available soon]
