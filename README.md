@@ -21,6 +21,12 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) W
 
 [[ICCV Workshop](https://openaccess.thecvf.com/content/ICCV2025W/HCV/html/Cai_OscNet_v1.5_Energy_Efficient_Hopfield_Network_on_CMOS_Oscillators_for_ICCVW_2025_paper.html)], [[arXiv](https://arxiv.org/abs/2506.12610)]
 
+3. OscVision: Oscillator Networks for Low Power Vision Inference
+
+International Journal of Computer Vision, 2026
+
+[[IJCV Available Soon]()]
+
 ## Circuit Design
 
 1. HippNet: a Hippocampus-Inspired Architecture for Spatial Memory and Inference Using CMOS Oscillator Networks
